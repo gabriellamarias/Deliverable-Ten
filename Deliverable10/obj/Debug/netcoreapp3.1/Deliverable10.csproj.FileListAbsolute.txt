@@ -1,0 +1,13 @@
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\bin\Debug\netcoreapp3.1\Deliverable10.exe
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\bin\Debug\netcoreapp3.1\Deliverable10.deps.json
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\bin\Debug\netcoreapp3.1\Deliverable10.runtimeconfig.json
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\bin\Debug\netcoreapp3.1\Deliverable10.runtimeconfig.dev.json
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\bin\Debug\netcoreapp3.1\Deliverable10.dll
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\bin\Debug\netcoreapp3.1\Deliverable10.pdb
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\obj\Debug\netcoreapp3.1\Deliverable10.csproj.AssemblyReference.cache
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\obj\Debug\netcoreapp3.1\Deliverable10.AssemblyInfoInputs.cache
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\obj\Debug\netcoreapp3.1\Deliverable10.AssemblyInfo.cs
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\obj\Debug\netcoreapp3.1\Deliverable10.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\obj\Debug\netcoreapp3.1\Deliverable10.dll
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\obj\Debug\netcoreapp3.1\Deliverable10.pdb
+C:\Users\Gabi\source\repos\Deliverable10\Deliverable10\obj\Debug\netcoreapp3.1\Deliverable10.genruntimeconfig.cache
